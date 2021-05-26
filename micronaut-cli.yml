@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: gradle.plugin.issue204
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, http-client, java, java-application, junit, logback, netty-server, readme, shade, yaml]
