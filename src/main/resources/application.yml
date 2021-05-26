@@ -1,3 +1,5 @@
 micronaut:
   application:
     name: gradlePluginIssue204
+---
+some.text: 'from application.yml'
